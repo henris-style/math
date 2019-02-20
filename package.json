@@ -1,6 +1,6 @@
 {
   "name": "@henris/math",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "math module for Henri's",
   "main": "index.scss",
   "scripts": {
